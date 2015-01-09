@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://developers.getmango.com"
   s.license      = { :type => "MIT", :file => "LICENSE.MD" }
 
-  s.authors    = { 'Ezequiel Becerra' => 'ezequiel.becerra@gmail.com', 'Gonzalo Larralde' => 'gonzalolarralde@gmail.com' }
+  s.authors    = { 'Mango Development Team' => 'support@getmango.com', 'Ezequiel Becerra' => 'ezequiel.becerra@gmail.com', 'Gonzalo Larralde' => 'gonzalolarralde@gmail.com' }
   s.social_media_url   = "https://twitter.com/getmango"
 
   s.platform     = :ios, "7.0"

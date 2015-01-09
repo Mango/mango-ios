@@ -7,7 +7,7 @@ Mango SDK for iOS
 We use _CocoaPods_:
 
 ```
-pod 'mango-ios', :git => 'https://github.com/betzerra/mango-ios.git'
+pod 'mango-ios', :git => 'https://github.com/mango/mango-ios.git'
 ```
 
 #How to use
